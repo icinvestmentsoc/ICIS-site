@@ -45,7 +45,8 @@
 
 
 .hori-timeline .events {
-    border-top: 3px solid #e9ecef
+    border-top: 3px solid #e9ecef;
+    border-bottom: 3px solid #e9ecef;
 }
 
 .hori-timeline .events .event-list {
@@ -73,14 +74,16 @@
     margin: 0 auto;
 }
 
-@media (min-width: 1140px) {
+@media (min-width: 1200px) {
     .hori-timeline .events .event-list {
-        display: inline-block;
         width: 20%;
         padding-top:45px;
     }
     .hori-timeline .events .event-list .event-date {
         top: -12px;
+    }
+    .hori-timeline .events {
+        border-bottom: 0px;
     }
 }
 
