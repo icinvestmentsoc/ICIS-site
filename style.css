@@ -76,7 +76,7 @@
 @media (min-width: 1140px) {
     .hori-timeline .events .event-list {
         display: inline-block;
-        width: 24%;
+        width: 20%;
         padding-top:45px;
     }
     .hori-timeline .events .event-list .event-date {
