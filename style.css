@@ -125,10 +125,5 @@
     margin-right: auto ;
 }
 
-.flex-container{
-    display:flex;
-    flex-flow: column-wrap;
-    justify-content: space-around;
 
-}
 
