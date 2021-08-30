@@ -9,10 +9,10 @@
         font-size: 1rem;
     }
     #type-logo {
-        font-size: 1rem;
+        font-size: 0.75rem;
     }
     .navbar-toggler-icon{
-        font-size: 0.8em;
+        font-size: 0.5em;
     }
 }
 
@@ -114,6 +114,7 @@
 .img-fluid {
     align:center;
 }
+
 .temasek{
         display: block;
         margin-left: auto;
@@ -125,5 +126,13 @@
     margin-right: auto ;
 }
 
+.flex-container{
+    display:flex;
+    flex-flow: column-wrap;
+    justify-content: space-around;
 
+}
 
+.col-md .img-vector {
+    height: 200px;
+}
