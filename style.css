@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
 @media(min-width: 768px) {
     .news-input {
         width: 50%;
@@ -28,9 +29,6 @@
     height: 60px
 } */
 
-.nav-active {
-    font-weight:bold;
-}
 
 .profile-pic {
     width: 128px;
