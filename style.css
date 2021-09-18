@@ -15,6 +15,9 @@
     .navbar-toggler-icon{
         font-size: 0.5em;
     }
+    .evaluation_donut{
+        max-width:150%;
+    }
 }
 
 #type-logo {
@@ -128,6 +131,11 @@
     display:flex;
     flex-flow: column-wrap;
     justify-content: space-around;
+
+}
+.evaluation_donut{
+    width:30%;
+    height: auto;
 
 }
 
