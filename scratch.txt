@@ -1,3 +1,0 @@
-  <li class="navbar-item">
-                        <a href="partners.html" class="nav-link ">Partners</a>
-                    </li>
